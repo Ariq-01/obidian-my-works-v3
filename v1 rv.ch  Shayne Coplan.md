@@ -1,0 +1,3 @@
+- simple : data global :
+- whast the cognitive dissonance happens ?
+- solved now

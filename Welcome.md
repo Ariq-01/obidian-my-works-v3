@@ -1,0 +1,1 @@
+_The richer we get, the more haters we get_ => Shayne coplan
