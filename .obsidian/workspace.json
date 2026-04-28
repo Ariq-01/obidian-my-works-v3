@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/revese enginering vol 1 medium.md",
+                "file": "code and code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "revese enginering vol 1 medium"
+              "title": "code and code"
             }
           }
         ],
@@ -228,12 +228,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7d0f84d9eeff1e4",
+  "active": "95d27500258a7ccb",
   "lastOpenFiles": [
-    "README.md",
-    "charcter/revese enginering vol 1 medium.md",
     "v1 rv.ch  Shayne Coplan.md",
+    "code and code.md",
     "Welcome.md",
+    "charcter/revese enginering vol 1 medium.md",
+    "README.md",
     "charcter"
   ]
 }
