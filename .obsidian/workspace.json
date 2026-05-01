@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code and code.md",
+                "file": "prompt/youutbe reverse enginering scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code and code"
+              "title": "youutbe reverse enginering scripts"
             }
           }
         ],
@@ -230,8 +230,10 @@
   },
   "active": "95d27500258a7ccb",
   "lastOpenFiles": [
-    "v1 rv.ch  Shayne Coplan.md",
+    "prompt",
     "code and code.md",
+    "prompt/youutbe reverse enginering scripts.md",
+    "v1 rv.ch  Shayne Coplan.md",
     "Welcome.md",
     "charcter/revese enginering vol 1 medium.md",
     "README.md",
