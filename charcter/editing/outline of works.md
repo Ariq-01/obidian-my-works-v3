@@ -1,5 +1,5 @@
-- [ ]  moble legens 3d in after effects velocity 
+- [ ]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
 - [ ] obsidan moved
 	- [ ] git install \\ change the directory into these , delets all fiels, replace with my owns 
 	- [ ] 
-- [ ] install fedora
+- [ ] install fedora _p0_

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/writing/ielts.md",
+                "file": "charcter/editing/tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ielts"
+              "title": "tasks"
             }
           },
           {
@@ -254,13 +254,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4430d24dd8ae2ce3",
+  "active": "19a23b584846515f",
   "lastOpenFiles": [
-    "charcter/youtube and link saved/youtube videos.md",
     "charcter/editing/tasks.md",
     "charcter/editing/outline of works.md",
-    "charcter/youtube and link saved",
     "charcter/writing/ielts.md",
+    "charcter/youtube and link saved/youtube videos.md",
+    "charcter/youtube and link saved",
     "charcter/jadwal.md",
     "charcter/code learn.md",
     "charcter/editing",

@@ -1,2 +1,2 @@
-- [ ] premire pro 
-- [ ] 
+- [ ] after effects 
+- [ ] install and update all the apps on the fedora
