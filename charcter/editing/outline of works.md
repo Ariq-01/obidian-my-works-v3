@@ -1,0 +1,5 @@
+- [ ]  moble legens 3d in after effects velocity 
+- [ ] obsidan moved
+	- [ ] git install \\ change the directory into these , delets all fiels, replace with my owns 
+	- [ ] 
+- [ ] install fedora

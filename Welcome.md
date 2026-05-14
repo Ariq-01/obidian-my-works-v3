@@ -1,1 +1,2 @@
-_The richer we get, the more haters we get_ => Shayne coplan
+9.53 gb : 8:18
+ 
