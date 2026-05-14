@@ -1,1 +1,1 @@
-berikan sebuah list berisakan 10 s
+code promt
