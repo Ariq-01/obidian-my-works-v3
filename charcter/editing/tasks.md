@@ -1,2 +1,4 @@
-- [ ] after effects 
-- [ ] install and update all the apps on the fedora
+- [ ] after effects  timothy ronald 
+	- [ ] raymond styles effects and modern animations 
+		- [ ] put the key of animations and timing by the sounds effects 
+- [x] install and update all the apps on the fedora

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/jadwal.md",
+                "file": "charcter/editing/tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jadwal"
+              "title": "tasks"
             }
           },
           {
@@ -256,16 +256,16 @@
   },
   "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "charcter/editing/tasks.md",
-    "Welcome.md",
-    "charcter/writing/ielts.md",
     "charcter/editing/outline of works.md",
+    "charcter/editing/tasks.md",
+    "charcter/writing/ielts.md",
     "charcter/youtube and link saved/youtube videos.md",
     "charcter/youtube and link saved",
     "charcter/jadwal.md",
     "charcter/code learn.md",
     "charcter/editing",
     "prompt/shorts.md",
+    "Welcome.md",
     "charcter/writing",
     "charcter/revese enginering vol 1 medium.md",
     "rich people/v1 rv.ch  Shayne Coplan.md",
