@@ -9,6 +9,13 @@
 	- [x] apps for epub
 	- [x] vs code install trae alternative : extensions flutter and kombai 
 		- [ ] learn the bloc 
+			- [ ] bloc widgets : when users cliekd input bottom field : page changes into the ui :
+				- [ ] after page changes :
+					- [ ] text and icons disapperas :
+						- [ ]  change by the icons for chat users
+							- [ ] chat loding custom
+							- [ ] output chat 
+						- [ ]  saved into memory 
 - [ ] timotyh ronal 
 	- [ ] dowlaod video :
 		- [ ] cut the sections using premir pro plugins
