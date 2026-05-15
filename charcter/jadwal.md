@@ -1,21 +1,22 @@
  - [ ]  journaling 1/2 page
- - [x] jounaling 30 page 
+ - [ ] jounaling 30 page 
 	 - [ ] 
- - [x] Olahraga , pushups, lag
+ - [ ] Olahraga , pushups, lag
+ - [ ] mengaji 1 page, minum obat
 
-- [x]  writing _p0_
-	- [x] ielts
-	- [x] medium : research knowledge : upaldo into this, calculating for every weeks
+- [ ]  writing _p0_
+	- [ ] ielts
+	- [ ] medium : research knowledge : upaldo into this, calculating for every weeks
 	- [ ] journaling 3 pages 
-	- [x] Read one book
-		- [x] buku perang dunia
-		- [x] sejarah dunia
-		- [x] sun ztu
-		- [x] money works
-		- [x] future system
-			- [x] whats the data
+	- [ ] Read one book
+		- [ ] buku perang dunia
+		- [ ] sejarah dunia
+		- [ ] sun ztu
+		- [ ] money works
+		- [ ] future system
+			- [ ] whats the data
 
-- [x] coding : learning one basic every day
+- [ ] coding : learning one basic every day
  - [ ] Boxing 10 menits : night
 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/editing/tasks.md",
+                "file": "charcter/jadwal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "jadwal"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "dd6c2dba818e9805",
@@ -254,18 +254,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95d27500258a7ccb",
+  "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "charcter/editing/outline of works.md",
-    "charcter/writing/ielts.md",
     "charcter/editing/tasks.md",
+    "Welcome.md",
+    "charcter/writing/ielts.md",
+    "charcter/editing/outline of works.md",
     "charcter/youtube and link saved/youtube videos.md",
     "charcter/youtube and link saved",
     "charcter/jadwal.md",
     "charcter/code learn.md",
     "charcter/editing",
     "prompt/shorts.md",
-    "Welcome.md",
     "charcter/writing",
     "charcter/revese enginering vol 1 medium.md",
     "rich people/v1 rv.ch  Shayne Coplan.md",
