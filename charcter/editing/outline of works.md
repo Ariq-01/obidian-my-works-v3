@@ -1,11 +1,20 @@
-- [ ]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
-- [ ] obsidan moved
-	- [ ] git install \\ change the directory into these , delets all fiels, replace with my owns 
+- [x]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
+- [x] obsidan moved
+	- [x] git install \\ change the directory into these , delets all fiels, replace with my owns 
 	- [ ] 
-- [ ] install fedora _p0_
-	- [ ] android studio
-	- [ ] fluttter
+- [x] install fedora _p0_
+	- [x] android studio
+	- [x] fluttter
 	- [x] thinfakn shortcust 
-	- [ ] apps for epub
-	- [ ] vs code install trae alternative : extensions flutter and kombai 
+	- [x] apps for epub
+	- [x] vs code install trae alternative : extensions flutter and kombai 
 		- [ ] learn the bloc 
+- [ ] timotyh ronal 
+	- [ ] dowlaod video :
+		- [ ] cut the sections using premir pro plugins
+			- [ ]  no adjustments colours 
+		- [ ] after effects edits :
+			- [ ] edit video ny dengan text 3d dan mirip dengan raymond chin
+				- [ ] belaajr editing how to edit like raymond firts
+				- [ ] grep the colours and effects 
+		- [ ] export to tiktok 
