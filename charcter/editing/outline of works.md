@@ -3,3 +3,9 @@
 	- [ ] git install \\ change the directory into these , delets all fiels, replace with my owns 
 	- [ ] 
 - [ ] install fedora _p0_
+	- [ ] android studio
+	- [ ] fluttter
+	- [x] thinfakn shortcust 
+	- [ ] apps for epub
+	- [ ] vs code install trae alternative : extensions flutter and kombai 
+		- [ ] learn the bloc 

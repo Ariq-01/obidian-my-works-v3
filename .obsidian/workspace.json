@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "dd6c2dba818e9805",
@@ -254,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a23b584846515f",
+  "active": "95d27500258a7ccb",
   "lastOpenFiles": [
-    "charcter/editing/tasks.md",
     "charcter/editing/outline of works.md",
     "charcter/writing/ielts.md",
+    "charcter/editing/tasks.md",
     "charcter/youtube and link saved/youtube videos.md",
     "charcter/youtube and link saved",
     "charcter/jadwal.md",
