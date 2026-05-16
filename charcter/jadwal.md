@@ -1,8 +1,8 @@
- - [ ]  journaling 1/2 page
- - [ ] jounaling 30 page 
-	 - [ ] 
- - [ ] Olahraga , pushups, lag
- - [ ] mengaji 1 page, minum obat
+ - [x]  journaling 1/2 page
+ - [x] jounaling 30 page 
+	 - [x] 
+ - [x] Olahraga , pushups, lag
+ - [x] mengaji 1 page, minum obat
 
 - [ ]  writing _p0_
 	- [ ] ielts
@@ -30,6 +30,7 @@
 
 
 - [ ]  Task list :
+	- [ ] bacaan sholat
 
 
 ---

@@ -70,7 +70,7 @@
             "id": "19a23b584846515f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
                 "file": "charcter/editing/outline of works.md",
                 "mode": "source",
