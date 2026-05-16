@@ -14,7 +14,7 @@
 		- [x] sun ztu
 		- [x] money works
 		- [x] future system
-			- [x] whats the data
+			- [ ] whats the data
 
 - [x] coding : learning one basic every day
  - [x] Boxing 10 menits : night
