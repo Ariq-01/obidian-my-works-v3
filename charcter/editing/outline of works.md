@@ -6,14 +6,7 @@
 - [ ] install fedora _p0_
 =======
 - [x] install fedora _p0_
->>>>>>> origin/main
-	- [x] android studio
-	- [x] fluttter
-	- [x] thinfakn shortcust 
-	- [x] apps for epub
-	- [x] vs code install trae alternative : extensions flutter and kombai 
-<<<<<<< HEAD
-		- [x] learn the bloc 
+	  
 
 - [ ]  dribble desig 
 	- [ ] apps deisgn 
