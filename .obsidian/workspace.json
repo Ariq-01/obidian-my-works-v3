@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/jadwal.md",
+                "file": "charcter/coding/list projects to tracking on these progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jadwal"
+              "title": "list projects to tracking on these progress"
             }
           },
           {
@@ -70,14 +70,14 @@
             "id": "1a4d41b4d770ea7a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "charcter/editing/outline of works.md",
-                "bFile": "charcter/editing/outline of works.md",
-                "aRef": ""
+                "file": "charcter/jadwal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: outline of works  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "jadwal"
             }
           }
         ],
@@ -254,17 +254,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a4d41b4d770ea7a",
+  "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "charcter/jadwal.md",
+    "charcter/coding/list projects to tracking on these progress.md",
+    "charcter/coding",
+    "charcter/code learn.md",
+    "conflict-files-obsidian-git.md",
     "charcter/editing/outline of works.md",
     "charcter/editing/tasks.md",
     "Welcome.md",
     "charcter/writing/ielts.md",
     "charcter/youtube and link saved/youtube videos.md",
     "charcter/youtube and link saved",
-    "charcter/code learn.md",
     "charcter/editing",
     "prompt/shorts.md",
     "charcter/writing",

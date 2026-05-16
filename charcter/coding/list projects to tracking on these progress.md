@@ -1,0 +1,11 @@
+- [ ] read only on tetx input field : file sticy note : void callback 
+	- [ ] status read only 
+		- [ ] ganti ke dalam text fields
+			- [ ] bagaimana agar text tersebut bisa langsung di kiirmkana 
+			- [ ] void callback for text saved on loading chat indicators
+			- [ ] send on the bloc => model => ai http
+		- [ ] get the tetx , bloc => event update new chat 
+			- [ ] widgets chat get 
+				- [ ] remove the loaidng indicators 
+					- [ ] showed the widgets results 
+						- [ ] note : no over design in just simple stuff to prove its works well 
