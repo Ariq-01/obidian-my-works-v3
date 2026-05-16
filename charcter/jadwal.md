@@ -14,12 +14,15 @@
 		- [x] sun ztu
 		- [x] money works
 		- [x] future system
-			- [ ] whats the data
+			- [x] whats the data
 
 - [x] coding : learning one basic every day
  - [x] Boxing 10 menits : night
-	 - [ ] bahasa inggris 5 menits from conversations , not podctas , but normal on x
-
+	 - [x] bahasa inggris 5 menits from conversations , not podctas , but normal on x
+		- [ ] mandarin
+- [ ] set timer for 25 menits 
+	- [ ] coding 
+	- [ ] editing 
 
 ---
 - [ ]  dont forget :

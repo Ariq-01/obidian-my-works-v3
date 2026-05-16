@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/coding/list projects to tracking on these progress.md",
+                "file": "charcter/jadwal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list projects to tracking on these progress"
+              "title": "jadwal"
             }
           }
         ],
@@ -255,10 +255,10 @@
   },
   "active": "19a23b584846515f",
   "lastOpenFiles": [
+    "charcter/coding/list projects to tracking on these progress.md",
     "charcter/editing/outline of works.md",
     "Welcome.md",
     "charcter/writing/ielts.md",
-    "charcter/coding/list projects to tracking on these progress.md",
     "charcter/editing/tasks.md",
     "charcter/coding",
     "charcter/youtube and link saved/youtube videos.md",
