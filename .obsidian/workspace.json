@@ -65,8 +65,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1a4d41b4d770ea7a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "charcter/editing/outline of works.md",
+                "bFile": "charcter/editing/outline of works.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: outline of works  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c1477dd9af97ac9",
+  "active": "1a4d41b4d770ea7a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "charcter/jadwal.md",
     "charcter/editing/outline of works.md",
-    "conflict-files-obsidian-git.md",
     "charcter/editing/tasks.md",
     "Welcome.md",
     "charcter/writing/ielts.md",
