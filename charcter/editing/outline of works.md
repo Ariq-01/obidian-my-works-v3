@@ -3,9 +3,17 @@
 	- [ ] git install \\ change the directory into these , delets all fiels, replace with my owns 
 	- [ ] 
 - [ ] install fedora _p0_
-	- [ ] android studio
-	- [ ] fluttter
+	- [x] android studio
+	- [x] fluttter
 	- [x] thinfakn shortcust 
-	- [ ] apps for epub
-	- [ ] vs code install trae alternative : extensions flutter and kombai 
-		- [ ] learn the bloc 
+	- [x] apps for epub
+	- [x] vs code install trae alternative : extensions flutter and kombai 
+		- [x] learn the bloc 
+
+- [ ]  dribble desig 
+	- [ ] apps deisgn 
+		- [ ] tunrs into code 
+		- [ ] add bloc widgets when users clicked chat input fileds :
+			- [ ] tunrns into empy chat page 
+				- [ ] add widgets for chat 
+					- [ ] add loading indicators custom using bloc 
