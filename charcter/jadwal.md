@@ -4,8 +4,8 @@
  - [x] Olahraga , pushups, lag
  - [x] mengaji 1 page, minum obat
 
-- [ ]  writing _p0_
-	- [ ] ielts
+- [x]  writing _p0_
+	- [x] ielts
 	- [x] medium : research knowledge : upaldo into this, calculating for every weeks
 	- [x] journaling 3 pages 
 	- [x] Read one book
@@ -16,8 +16,9 @@
 		- [x] future system
 			- [x] whats the data
 
-- [ ] coding : learning one basic every day
- - [ ] Boxing 10 menits : night
+- [x] coding : learning one basic every day
+ - [x] Boxing 10 menits : night
+	 - [ ] bahasa inggris 5 menits from conversations , not podctas , but normal on x
 
 
 ---
