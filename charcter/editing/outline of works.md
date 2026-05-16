@@ -1,12 +1,7 @@
 - [x]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
 - [x] obsidan moved
 	- [x] git install \\ change the directory into these , delets all fiels, replace with my owns 
-	- [ ] 
-<<<<<<< HEAD
-- [ ] install fedora _p0_
-=======
-- [x] install fedora _p0_
-	  
+
 
 - [ ]  dribble desig 
 	- [ ] apps deisgn 
@@ -33,4 +28,4 @@
 				- [ ] belaajr editing how to edit like raymond firts
 				- [ ] grep the colours and effects 
 		- [ ] export to tiktok 
->>>>>>> origin/main
+

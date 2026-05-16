@@ -9,6 +9,9 @@
 	- [x] medium : research knowledge : upaldo into this, calculating for every weeks
 	- [x] journaling 3 pages 
 	- [x] Read one book
+		- [ ] opsional stuff
+			- [ ] the bytedance founders mental model
+				- [ ] humans as algorithsm and company as a producs
 		- [x] buku perang dunia
 		- [x] sejarah dunia
 		- [x] sun ztu

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efcd5915b8ffb886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "charcter/editing/outline of works.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "outline of works"
-            }
-          },
-          {
             "id": "4430d24dd8ae2ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/coding/list projects to tracking on these progress.md",
+                "file": "charcter/jadwal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list projects to tracking on these progress"
+              "title": "jadwal"
             }
           },
           {
@@ -71,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/jadwal.md",
+                "file": "charcter/coding/list projects to tracking on these progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jadwal"
+              "title": "list projects to tracking on these progress"
             }
           }
         ],
@@ -253,22 +239,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a23b584846515f",
+  "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "charcter/coding/list projects to tracking on these progress.md",
-    "charcter/editing/outline of works.md",
-    "Welcome.md",
+    "charcter/revese enginering vol 1 medium.md",
+    "charcter/code learn.md",
+    "charcter/youtube and link saved/youtube videos.md",
     "charcter/writing/ielts.md",
     "charcter/editing/tasks.md",
-    "charcter/coding",
-    "charcter/youtube and link saved/youtube videos.md",
-    "charcter/youtube and link saved",
+    "charcter/editing/outline of works.md",
+    "charcter/coding/list projects to tracking on these progress.md",
+    "charcter/coding/grok trading mourse code.md",
     "charcter/jadwal.md",
-    "charcter/code learn.md",
+    "Welcome.md",
+    "charcter/coding",
+    "charcter/youtube and link saved",
     "charcter/editing",
     "prompt/shorts.md",
     "charcter/writing",
-    "charcter/revese enginering vol 1 medium.md",
     "rich people/v1 rv.ch  Shayne Coplan.md",
     "rich people",
     "charcter/personla used/task trackers.md",
