@@ -17,3 +17,24 @@
 						- [ ] note : no over design in just simple stuff to prove its works well 
 - [ ] div -- new sections 
 - [ ] add memory for saved the users chat
+
+---
+## solved immediatly
+		buatkan nvidia ai chat 
+			backaend proxy 
+
+
+	- bagian yang disebut dengan yang namnya itu :
+		- home page 
+			- pisahkan widgets dan liannya , pisahkan saja , widgets const 
+			- pastikan menabmahakn text input field dibawah nya
+				- psiahkan text input field sebanyak 2 : satu mock dan satunya real , yang triegger on tap ke sana dan triggers untuk ganti halamnnya 
+			- pisahkan semua widets
+
+
+----
+# quetsion
+		alasan kenapa ai bisa tahu hal tersebut 
+			hal ini : kenapa dan mengapa orang tua atau siapapaun itu cendernung suka mengontrol anak ny a
+				hal ini bukan pada anak yang nakal 
+					melainkan pada anak yang tdk nakal yang cenderung objectif dari mata ny , dan tdk gampang ikut pergaulan nakal dengan berupa tindakan menyuruh , memberikan beberapa hal seperti menjadi kambing hitam dan lainnnya || hal ini sangta kontras dengan anak anak nakal yang dibiarkan begitu saja untuk berkemang dengan sendirinya
