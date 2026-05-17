@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "a561a306826d7b81",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "charcter/jadwal.md",
-                "bFile": "charcter/jadwal.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: jadwal  (Working Tree)"
-            }
-          },
-          {
             "id": "95d27500258a7ccb",
             "type": "leaf",
             "state": {
@@ -268,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a561a306826d7b81",
+  "active": "c967d1135b5996ba",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "charcter/coding/list projects to tracking on these progress.md",
