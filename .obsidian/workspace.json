@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/editing/v2 editig after efects.md",
+                "file": "sub task/main jadwal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v2 editig after efects"
+              "title": "main jadwal"
             }
           },
           {
@@ -45,28 +45,17 @@
             "id": "9c1477dd9af97ac9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "19a23b584846515f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "charcter/jadwal.md",
+                "file": "sub task/main jadwal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jadwal"
+              "title": "main jadwal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,33 +228,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a23b584846515f",
+  "active": "f7d0f84d9eeff1e4",
   "lastOpenFiles": [
-    "charcter/coding/list projects to tracking on these progress.md",
-    "charcter/editing/v2 editig after efects.md",
-    "charcter/editing/outline of works.md",
-    "charcter/jadwal.md",
-    "charcter/revese enginering vol 1 medium.md",
-    "charcter/code learn.md",
-    "charcter/youtube and link saved/youtube videos.md",
-    "charcter/writing/ielts.md",
-    "charcter/editing/tasks.md",
-    "charcter/coding/grok trading mourse code.md",
+    "sub task/revese enginering vol 1 medium.md",
+    "sub task/main jadwal.md",
+    "sub task/p1 second/editing/youtube creating videos prompt/prompt/shorts.md",
+    "sub task/p1 second/editing/youtube creating videos prompt",
+    "sub task/p2 - schedule/youtube and link saved/youtube videos.md",
+    "sub task/code learn.md",
+    "sub task/p1 second/editing/v2 editig after efects.md",
+    "sub task/p2 - schedule",
+    "sub task/p1 second",
+    "sub task/p0 first",
+    "Untitled",
+    "conflict-files-obsidian-git.md",
+    "sub task/p0 first/coding/list projects to tracking on these progress.md",
+    "sub task/p1 second/editing/outline of works.md",
+    "sub task/p1 second/writing/ielts.md",
+    "sub task/p1 second/editing/tasks.md",
+    "sub task/p0 first/coding/grok trading mourse code.md",
     "Welcome.md",
-    "charcter/coding",
-    "charcter/youtube and link saved",
-    "charcter/editing",
-    "prompt/shorts.md",
-    "charcter/writing",
-    "rich people/v1 rv.ch  Shayne Coplan.md",
-    "rich people",
+    "sub task/p0 first/coding",
+    "sub task/p2 - schedule/youtube and link saved",
+    "sub task/p1 second/editing",
+    "sub task/p1 second/writing",
+    "sub task/p2 - schedule/research top people/v1 rv.ch  Shayne Coplan.md",
+    "sub task/p2 - schedule/research top people",
     "charcter/personla used/task trackers.md",
     "charcter/personla used/temp text/tempa.md",
-    "prompt/youutbe reverse enginering scripts 2.md",
-    "charcter/personla used/temp text",
-    "charcter/personla used",
-    "prompt",
-    "README.md",
-    "charcter"
+    "sub task/p1 second/editing/youtube creating videos prompt/prompt/youutbe reverse enginering scripts 2.md",
+    "README.md"
   ]
 }
