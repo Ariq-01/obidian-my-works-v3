@@ -36,6 +36,9 @@
 - [ ] coding 10 steps
 
 - [ ] editing 10 steps 
-- [ ] 
+
+
+- [ ] tdk bermain hp sebelum tidur (jam 8 sdh stop)
+	- jorunalig hari ini data apa, dan apa yang harus dilakukan  
 
  
