@@ -6,7 +6,7 @@
  - [ ] Olahraga , pushups, lag
  - [ ] mengaji 1 page, minum obat
 
-<<<<<<< HEAD
+
 - [ ]  writing _p0_
 	- [ ] ielts
 	- [ ] medium : research knowledge : upaldo into this, calculating for every weeks
