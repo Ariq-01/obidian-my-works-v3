@@ -11,13 +11,18 @@
 	- masyarkat kelas atas
 	- negara 
 		- perang, harga , krisis, history of wolrds ( books,journal,papaer )
-#### sabtu
+#### sabtu = rest
 	- rest
+	- apa yang bisa gw improve 
+	- oke berpaa jarak ke goasl gw : skills coding , projects ? 
+	- apa yang sdh gw hasilkan dan outputnya 
+	- apakah bisa gw percepat lagi
+	- apa yang menghambat gw?
 #### minggu
 	money , market , futures money, 
 
 ---
-### Main
+### Main = pomdoro 25 m 
 - [ ]  journaling 
 	- 1/2 page : then olahraga
 	- 3 page journlaing in the early morning
