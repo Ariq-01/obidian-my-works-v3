@@ -30,6 +30,15 @@
 ---
 - [ ]  dont forget :
 
+	- [ ]  penerbangan tanggal 18 hari ini , siapakn barang listed on the note phone included the 
+		- [ ] charger phone and laptop
+			- [ ] kabel charger
+		- [ ] phones, laptop
+		- [ ] 3 clothes 
+		- [ ] 1 long pants formal , 1 celana olahraga 
+		- [ ]  sepatu olahraga, formal clothes
+		- [ ] 
+
 	- [ ] mengaji al kahfi 
 	- [ ]  Tri kartu : _[ tanggal 18 May - 5k]
 		- [ ] cek apakah ad alternatif 

@@ -1,6 +1,6 @@
-- [x]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
-- [x] obsidan moved
-	- [x] git install \\ change the directory into these , delets all fiels, replace with my owns 
+---
+ket: cukup lakukan 3 note saja setiap hari dan seleisakan
+---
 
 
 - [ ]  dribble desig 
@@ -19,13 +19,4 @@
 							- [ ] chat loding custom
 							- [ ] output chat 
 						- [ ]  saved into memory 
-- [ ] timotyh ronal 
-	- [ ] dowlaod video :
-		- [ ] cut the sections using premir pro plugins
-			- [ ]  no adjustments colours 
-		- [ ] after effects edits :
-			- [ ] edit video ny dengan text 3d dan mirip dengan raymond chin
-				- [ ] belaajr editing how to edit like raymond firts
-				- [ ] grep the colours and effects 
-		- [ ] export to tiktok 
 
