@@ -12,6 +12,7 @@
 	- negara 
 		- perang, harga , krisis, history of wolrds ( books,journal,papaer )
 #### sabtu
+	- rest
 #### minggu
 	money , market , futures money, 
 
