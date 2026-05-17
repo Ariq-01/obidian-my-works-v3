@@ -1,3 +1,24 @@
+#### senin
+	- [ ]  mandarin : pinyinyin (2 pages, listen audio firts and  repetading (voice must loud));
+#### selasa
+	- ielts (writing : task 1 )
+#### rabu
+	ielts (writing : task 2 )
+#### kamis
+	search top company : founders and ceo mental model 
+#### jumat
+#### sabtu
+#### minggu
+	money , market , futures money, 
+
+---
+### Main
+- [ ]  medium writing 1 page 
+- [ ] coding 10 steps
+- [ ] editing 10 steps 
+- [ ] 
+
+
 #### _keeps trying and dont listen them
 
  - [ ]  journaling 1/2 page
@@ -60,7 +81,7 @@
 		- [ ]  sepatu olahraga, formal clothes
 		- [ ] 
 
-	- [ ] mengaji al kahfi 
+
 	- [ ]  Tri kartu : _[ tanggal 18 May - 5k]
 		- [ ] cek apakah ad alternatif 
 		- [ ]  pindahkan akun google , akun bank, akun gopay, akun alfamidi dan lainnya
