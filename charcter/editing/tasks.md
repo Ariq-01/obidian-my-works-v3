@@ -2,3 +2,5 @@
 	- [ ] raymond styles effects and modern animations 
 		- [ ] put the key of animations and timing by the sounds effects 
 - [x] install and update all the apps on the fedora
+- [ ] mandarin 
+	- [ ] one parapgraph practuve pinting 

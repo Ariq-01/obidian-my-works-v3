@@ -4,6 +4,7 @@
  - [ ] Olahraga , pushups, lag
  - [ ] mengaji 1 page, minum obat
 
+<<<<<<< HEAD
 - [ ]  writing _p0_
 	- [ ] ielts
 	- [ ] medium : research knowledge : upaldo into this, calculating for every weeks
@@ -20,6 +21,30 @@
  - [ ] Boxing 10 menits : night
 	 - [ ] bahasa inggris 5 menits from conversations , not podctas , but normal on x
 
+=======
+- [x]  writing _p0_
+	- [x] ielts
+	- [x] medium : research knowledge : upaldo into this, calculating for every weeks
+	- [x] journaling 3 pages 
+	- [x] Read one book
+		- [ ] opsional stuff
+			- [ ] the bytedance founders mental model
+				- [ ] humans as algorithsm and company as a producs
+		- [x] buku perang dunia
+		- [x] sejarah dunia
+		- [x] sun ztu
+		- [x] money works
+		- [x] future system
+			- [x] whats the data
+
+- [x] coding : learning one basic every day
+ - [x] Boxing 10 menits : night
+	 - [x] bahasa inggris 5 menits from conversations , not podctas , but normal on x
+		- [ ] mandarin
+- [ ] set timer for 25 menits 
+	- [ ] coding 
+	- [ ] editing 
+>>>>>>> origin/main
 
 ---
 - [ ]  dont forget :

@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "a561a306826d7b81",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "charcter/jadwal.md",
+                "bFile": "charcter/jadwal.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: jadwal  (Working Tree)"
+            }
+          },
+          {
             "id": "95d27500258a7ccb",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "dd6c2dba818e9805",
@@ -254,13 +268,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4430d24dd8ae2ce3",
+  "active": "a561a306826d7b81",
   "lastOpenFiles": [
-    "charcter/jadwal.md",
+    "conflict-files-obsidian-git.md",
     "charcter/coding/list projects to tracking on these progress.md",
+    "charcter/coding/grok trading mourse code.md",
+    "charcter/jadwal.md",
     "charcter/coding",
     "charcter/code learn.md",
-    "conflict-files-obsidian-git.md",
     "charcter/editing/outline of works.md",
     "charcter/editing/tasks.md",
     "Welcome.md",

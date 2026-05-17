@@ -1,19 +1,7 @@
 - [x]  moble legens 3d in after effects velocity https://www.youtube.com/watch?v=Yw_L8MCfwZ8 _p1_
 - [x] obsidan moved
 	- [x] git install \\ change the directory into these , delets all fiels, replace with my owns 
-	- [ ] 
-<<<<<<< HEAD
-- [ ] install fedora _p0_
-=======
-- [x] install fedora _p0_
->>>>>>> origin/main
-	- [x] android studio
-	- [x] fluttter
-	- [x] thinfakn shortcust 
-	- [x] apps for epub
-	- [x] vs code install trae alternative : extensions flutter and kombai 
-<<<<<<< HEAD
-		- [x] learn the bloc 
+
 
 - [ ]  dribble desig 
 	- [ ] apps deisgn 
@@ -40,4 +28,4 @@
 				- [ ] belaajr editing how to edit like raymond firts
 				- [ ] grep the colours and effects 
 		- [ ] export to tiktok 
->>>>>>> origin/main
+
