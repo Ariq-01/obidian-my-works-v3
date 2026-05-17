@@ -7,16 +7,28 @@
 #### kamis
 	search top company : founders and ceo mental model 
 #### jumat
+	- analysis trend di market global untuk masyarak kelas menengah 
+	- masyarkat kelas atas
+	- negara 
+		- perang, harga , krisis, history of wolrds ( books,journal,papaer )
 #### sabtu
 #### minggu
 	money , market , futures money, 
 
 ---
 ### Main
+- [ ]  journaling 
+	- 1/2 page : then olahraga
+	- 3 page journlaing in the early morning
+	- 
 - [ ] olahraga (pagi : running || malam boxing )
-- [ ] 
+
+- [ ] quran (1 page after praying)
+
 - [ ]  medium writing 1 page 
+
 - [ ] coding 10 steps
+
 - [ ] editing 10 steps 
 - [ ] 
 

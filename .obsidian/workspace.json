@@ -6,6 +6,7 @@
       {
         "id": "0c2b63304894a484",
         "type": "tabs",
+        "dimension": 73.35766423357664,
         "children": [
           {
             "id": "4430d24dd8ae2ce3",
@@ -20,19 +21,22 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8845421c4d587b46",
+        "type": "tabs",
+        "dimension": 26.642335766423358,
+        "children": [
           {
             "id": "95d27500258a7ccb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "charcter/writing/ielts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ielts"
+              "title": "New tab"
             }
           }
         ]
@@ -210,8 +214,8 @@
   },
   "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "sub task/hey firts.md",
     "Welcome.md",
+    "sub task/hey firts.md",
     "sub task/p0 first/don forget -- schedle.md",
     "sub task/revese enginering vol 1 medium.md",
     "sub task/p1 second/editing/youtube creating videos prompt/prompt/shorts.md",
