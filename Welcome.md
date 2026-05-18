@@ -23,15 +23,15 @@
 
 ---
 ### Main = pomdoro 25 m 
-- [ ]  journaling 
+- [x]  journaling 
 	- 1/2 page : then olahraga
 	- 3 page journlaing in the early morning
 	- 
-- [ ] olahraga (pagi : running || malam boxing )
+- [x] olahraga (pagi : running || malam boxing )
 
-- [ ] quran (1 page after praying)
+- [x] quran (1 page after praying)
 
-- [ ]  medium writing 1 page 
+- [x]  medium writing 1 page 
 
 - [ ] coding 10 steps
 
