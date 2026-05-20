@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "list projects to tracking on these progress"
             }
-          },
-          {
-            "id": "95d27500258a7ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "charcter/writing/ielts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ielts"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "dd6c2dba818e9805",
@@ -65,23 +51,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "1a4d41b4d770ea7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "charcter/jadwal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jadwal"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,24 +225,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c967d1135b5996ba",
+  "active": "4430d24dd8ae2ce3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "charcter/coding/list projects to tracking on these progress.md",
     "charcter/coding/grok trading mourse code.md",
     "charcter/jadwal.md",
+    "charcter/revese enginering vol 1 medium.md",
+    "2026-05-20.md",
+    "Welcome.md",
+    "2026-05-19.md",
+    "bandar.md",
+    "2026-05-18.md",
+    "charcter/coding/list projects to tracking on these progress.md",
+    "conflict-files-obsidian-git.md",
     "charcter/coding",
     "charcter/code learn.md",
     "charcter/editing/outline of works.md",
     "charcter/editing/tasks.md",
-    "Welcome.md",
     "charcter/writing/ielts.md",
     "charcter/youtube and link saved/youtube videos.md",
     "charcter/youtube and link saved",
     "charcter/editing",
     "prompt/shorts.md",
     "charcter/writing",
-    "charcter/revese enginering vol 1 medium.md",
     "rich people/v1 rv.ch  Shayne Coplan.md",
     "rich people",
     "charcter/personla used/task trackers.md",

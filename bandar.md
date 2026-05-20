@@ -1,0 +1,10 @@
+- [x]  ashia 
+- [x] charging laptop dan ambil roti dulu 
+- [x] maghrb
+	- [x] niat untuk jama sholat isya
+- [x] pergi simpan bagasi , 
+- [x] naik ke lantai 2 
+- [ ] bab
+- [ ] cek shoope verivy lokasi pengirimannya 
+- [ ] beli milku diluar 
+	- [ ] cara keluar bandara 
