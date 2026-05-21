@@ -1,10 +1,14 @@
+
+
+#### _keeps trying and dont listen them
+
  - [ ]  journaling 1/2 page
  - [ ] jounaling 3 page 
 	 - [ ] 
  - [ ] Olahraga , pushups, lag
  - [ ] mengaji 1 page, minum obat
 
-<<<<<<< HEAD
+
 - [ ]  writing _p0_
 	- [ ] ielts
 	- [ ] medium : research knowledge : upaldo into this, calculating for every weeks
@@ -49,7 +53,16 @@
 ---
 - [ ]  dont forget :
 
-	- [ ] mengaji al kahfi 
+	- [ ]  penerbangan tanggal 18 hari ini , siapakn barang listed on the note phone included the 
+		- [ ] charger phone and laptop
+			- [ ] kabel charger
+		- [ ] phones, laptop
+		- [ ] 3 clothes 
+		- [ ] 1 long pants formal , 1 celana olahraga 
+		- [ ]  sepatu olahraga, formal clothes
+		- [ ] 
+
+
 	- [ ]  Tri kartu : _[ tanggal 18 May - 5k]
 		- [ ] cek apakah ad alternatif 
 		- [ ]  pindahkan akun google , akun bank, akun gopay, akun alfamidi dan lainnya

@@ -1,0 +1,3 @@
+- [ ]  import notion schedule into the obsian 
+	- [ ] obdisan is for the teps by stepps
+	- [ ] notion for saved all
