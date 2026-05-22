@@ -36,9 +36,7 @@
 - [ ] coding 10 steps
 
 - [ ] editing 10 steps 
-- [ ]  laportkan 
-	- [ ] https://pengaduan.komnasham.go.id/id/
-	- [ ] https://pengaduan.komnasham.go.id/id/
+
 
 - [ ] tdk bermain hp sebelum tidur (jam 8 sdh stop)
 	- jorunalig hari ini data apa, dan apa yang harus dilakukan  
