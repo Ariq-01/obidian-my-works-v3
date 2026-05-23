@@ -33,8 +33,3 @@
 
 
 ----
-# quetsion
-		alasan kenapa ai bisa tahu hal tersebut 
-			hal ini : kenapa dan mengapa orang tua atau siapapaun itu cendernung suka mengontrol anak ny a
-				hal ini bukan pada anak yang nakal 
-					melainkan pada anak yang tdk nakal yang cenderung objectif dari mata ny , dan tdk gampang ikut pergaulan nakal dengan berupa tindakan menyuruh , memberikan beberapa hal seperti menjadi kambing hitam dan lainnnya || hal ini sangta kontras dengan anak anak nakal yang dibiarkan begitu saja untuk berkemang dengan sendirinya

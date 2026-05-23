@@ -42,8 +42,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "2bc724ebbfe93e67",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,12 +231,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4430d24dd8ae2ce3",
+  "active": "c967d1135b5996ba",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Welcome.md",
+    "sub task/trahsed/as.md",
+    "sub task/trahsed",
+    "sub task/p0 first/coding/chat fields.md",
+    "bandar.md",
+    "2026-05-20.md",
+    "buang/Untitled.md",
     "buang",
     "sub task/p2 - schedule/mandarin/task1.md",
-    "buang/Untitled.md",
-    "Welcome.md",
     "dont forget to breat.md",
     "sub task/p2 - schedule/mandarin",
     "sub task/hey firts.md",
@@ -235,7 +256,6 @@
     "sub task/p2 - schedule",
     "sub task/p1 second",
     "sub task/p0 first",
-    "conflict-files-obsidian-git.md",
     "sub task/p0 first/coding/list projects to tracking on these progress.md",
     "sub task/p1 second/editing/outline of works.md",
     "sub task/p1 second/writing/ielts.md",
@@ -244,7 +264,6 @@
     "sub task/p0 first/coding",
     "sub task/p2 - schedule/youtube and link saved",
     "sub task/p1 second/editing",
-    "sub task/p1 second/writing",
     "sub task/p2 - schedule/research top people/v1 rv.ch  Shayne Coplan.md",
     "charcter/personla used/task trackers.md",
     "charcter/personla used/temp text/tempa.md",

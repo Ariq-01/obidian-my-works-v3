@@ -1,4 +1,4 @@
-#### senin
+#### seninADA SATU RULES YAIUT JANGAN PERNHA BERHENTI , JANGAN BERGERAK CEPAT , KEEP MOVEMENTS BY OF THE SPEED CONSTANT AND THE OCST NOT STOPPED X
 	- [ ]  mandarin : pinyinyin (2 pages, listen audio firts and  repetading (voice must loud));
 #### selasa
 	- ielts (writing : task 1 )
